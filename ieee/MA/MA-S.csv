@@ -1318,6 +1318,7 @@ MA-S,70B3D5F00,Aplex Technology Inc.,"15F-1, No.186, Jian Yi Road  Zhonghe Distr
 MA-S,70B3D5986,Aplex Technology Inc.,"15F-1, No.186, Jian Yi Road Zhonghe District New Taipei City 235 TW  - "
 MA-S,70B3D5605,Aplex Technology Inc.,"15F-1, No.186, Jian Yi Road  Zhonghe District New Taipei City 235 TW  - "
 MA-S,70B3D52EE,Aplex Technology Inc.,"15F-1, No.186, Jian Yi Road  Zhonghe District New Taipei City 235 TW  - "
+MA-S,8C1F64798,"MARKT Co., Ltd","320, 8, Seongnam-daero 331beon-gil, Bundang-gu Seongnam-si Gyeonggi-do KR 13558 "
 MA-S,8C1F64A98,"Jacobs Technology, Inc.",7765 Old Telegraph Road Severn MD US 21144 
 MA-S,8C1F644A9,Martec Marine S.p.a.,Via dell'industria 1/3 Vignate Milano IT 20052 
 MA-S,8C1F64DE5,Gogo Business Aviation,"105 Edgeview Dr., Suite 300 Broomfield CO US 80021 "
@@ -2638,6 +2639,7 @@ MA-S,70B3D5817,Aplex Technology Inc.,"15F-1, No.186, Jian Yi Road  Zhonghe Distr
 MA-S,70B3D5D90,Aplex Technology Inc.,"15F-1, No.186, Jian Yi Road  Zhonghe District New Taipei City 235 TW  - "
 MA-S,70B3D535F,Aplex Technology Inc.,"15F-1, No.186, Jian Yi Road  Zhonghe District New Taipei City 235 TW  - "
 MA-S,8C1F64C58,Kitagawa Corporation,77-1 Motomachi Fuchu-shi Hiroshima JP 726-0003 
+MA-S,8C1F64781,Druck Ltd.,"Firtree Lane, Groby, Leicester Le6 0FH England GB  "
 MA-S,8C1F64E6F,Vision Systems Safety Tech,5 Chemin de Chiradie Brignais  FR 69530 
 MA-S,70B3D5119,YPP Corporation,24 Geumchon-gu Seoul KR 153-802 
 MA-S,70B3D5159,RCH SPA,Via Cendon 39 Silea  IT 31057 
@@ -3956,9 +3958,15 @@ MA-S,70B3D57CE,Aplex Technology Inc.,"15F-1, No.186, Jian Yi Road  Zhonghe Distr
 MA-S,70B3D5F57,Aplex Technology Inc.,"15F-1, No.186, Jian Yi Road  Zhonghe District New Taipei City 235 TW  - "
 MA-S,8C1F64B96,Observable Space,2228 cotner ave Los Angeles CA US 90064 
 MA-S,70B3D5906,Aplex Technology Inc.,"15F-1, No.186, Jian Yi Road Zhonghe District New Taipei City 235 TW  - "
-MA-S,8C1F64741,TRATON AB,Lärlingsvägen 3 Södertälje  SE 15165 
-MA-S,8C1F64761,"BOE Smart IoT Technology Co.,Ltd","3rd Floor, Building 1, No. 12 West Ring Middle Road, Beijing Economic and Technological Development Zone Beijing Beijing CN 100176 "
 MA-S,8C1F641FC,Yu Heng Electric CO. TD ,"No. 8, Gongye 2nd Road, Renwu District,  Kaohiung  City  Taiwan  CN 814  "
+MA-S,8C1F64CD0,REO AG,Brühlerstr. 100 Solingen  DE 42657 
+MA-S,8C1F64A20,Intenseye Inc.,1250 Broadway Suite 401 New York NY US 10001 
+MA-S,8C1F64761,"BOE Smart IoT Technology Co.,Ltd","3rd Floor, Building 1, No. 12 West Ring Middle Road, Beijing Economic and Technological Development Zone Beijing Beijing CN 100176 "
+MA-S,8C1F64741,TRATON AB,Lärlingsvägen 3 Södertälje  SE 15165 
+MA-S,8C1F64ED0,Shanghai Jupper Technology Co.Ltd,"Room511,building D10, Lane 3188, Xiupu road, Pudong New District Shanghai  CN 201315 "
+MA-S,8C1F644A4,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO US 63042 
+MA-S,8C1F646D1,Smith meter Inc ,1602 Wagner Ave Erie  US 16510 
+MA-S,8C1F64C99,Vinfast Trading and Production JSC,"Dinh Vu - Cat Hai Economic Zone, Cai Hai Island, Cat Hai Sepcial Administrative Zone Hai Phong Hai Phong VN 180000 "
 MA-S,8C1F6482B,Flow Power,"Suite 2, Level 3, 18 - 20 York St Sydney  AU 2000 "
 MA-S,8C1F645A7,RCH SPA,Via Cendon 39 Silea  IT 31057 
 MA-S,8C1F64049,NUANCES ORG,92 AVENUE DE WAGRAM PARIS  FR 75017 
@@ -5285,6 +5293,7 @@ MA-S,70B3D53D9,Aplex Technology Inc.,"15F-1, No.186, Jian Yi Road  Zhonghe Distr
 MA-S,70B3D5E7C,Aplex Technology Inc.,"15F-1, No.186, Jian Yi Road  Zhonghe District New Taipei City 235 TW  - "
 MA-S,70B3D5528,Aplex Technology Inc.,"15F-1, No.186, Jian Yi Road  Zhonghe District New Taipei City 235 TW  - "
 MA-S,70B3D5666,Aplex Technology Inc.,"15F-1, No.186, Jian Yi Road  Zhonghe District New Taipei City 235 TW  - "
+MA-S,8C1F64A45,"U -MEI-DAH INT'L ENTERPRISE CO.,LTD.","11F., No. 365, Fude 3rd Rd., Xizhi Dist., New Taipei City 221011 , Taiwan (R.O.C.) New Taipei City  TW 221011 "
 MA-S,8C1F64D63,Mobileye,13 Hartom st. Jerusalem  IL 91450 
 MA-S,8C1F643C8,BTG Instruments AB,Industrigatan 1-3 Saffle Varmland SE 66132 
 MA-S,70B3D590E,Maytronics Ltd.,Kibbutz Yizrael Kibbutz Yizrael  IL 1935000 
@@ -6592,3 +6601,5 @@ MA-S,8C1F64057,"Shenzhen Broadradio RFID Technology Co., Ltd","B222, 2nd Floor, 
 MA-S,70B3D5FF3,Aplex Technology Inc.,"15F-1, No.186, Jian Yi Road  Zhonghe District New Taipei City 235 TW  - "
 MA-S,8C1F64575,Yu Heng Electric CO. TD ,"No 8 , Gongye 2nd Rd., Renwu Industry Park Kaohsiung Kaohsiung City TW 814 "
 MA-S,70B3D565C,Aplex Technology Inc.,"15F-1, No.186, Jian Yi Road  Zhonghe District New Taipei City 235 TW  - "
+MA-S,8C1F64688,Tardis Technology,"2-30, Maenser Space, 145 Shindae-ro Jejusi Jejudo KR 63134 "
+MA-S,8C1F64CDA,SPX Flow Technology BV,Munnikenheiweg 41 Etten-Leur Noord-Braband NL 4879NE 
