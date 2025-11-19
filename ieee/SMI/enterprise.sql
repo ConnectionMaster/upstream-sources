@@ -37707,7 +37707,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 37705	CommSoft RMS LLC
 37706	Netmedia Systems e. K.
 37707	Rocrail
-37708	Systola Forwarding GmbH
+37708	Systola GmbH
 37709	S3 Satcom Ltd
 37710	Dane E. Jones
 37711	FileMaker Inc
@@ -40071,7 +40071,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 40069	enprovia Software Engineering s. r. o.
 40070	RetailNext
 40071	P. St. Onge
-40072	techlab.jp (formerly 'scminfo.net')
+40072	ouchi.dev
 40073	Lutron Electronics Company, Inc
 40074	Energy Solutions Ltd.
 40075	SPL-Xdemat
@@ -64596,4 +64596,61 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64594	Alexander Kofanov
 64595	Atikon EDV & Marketing GmbH
 64596	Henjes, Conner & Williams, P.C.
+64597	Ø§ÙÙØ­Ø§Ø±Ø¨ Ø§ÙØ±ÙÙÙ (Digital Warrior)
+64598	Chutian Dragon Co.,Ltd.
+64599	Benjamin Ray
+64600	Meiflow
+64601	Corrections Technology Group
+64602	Forrest County General Hospital
+64603	BrainChild Electronic
+64604	Partronics eBoards Pvt Ltd
+64605	Shield Security Software
+64606	Swisscom Lab
+64607	Peter J. Mello
+64608	RISEN ENERGY Co., LTD.
+64609	FAIRagro
+64610	Z Elektronika kft
+64611	Tyven
+64612	Myrddhinn Technologies
+64613	FINTRAC LTD
+64614	initEnergy GmbH
+64615	Pelton Shepherd Industries
+64616	MR Sifiso Sizwe Shezi
+64617	DrHEX
+64618	Wombat Labs
+64619	IDCITI
+64620	Centry Cognitive Capital
+64621	MT-LINK TECHNOLOGIES CO
+64622	Deutsche Pfandbriefbank AG
+64623	VÃ¤rne Skog AB
+64624	Prival ODC Inc.
+64625	Pat O'Donnell & Co
+64626	Australian New Energy Technology Pty Ltd
+64627	TDF
+64628	Lynx Innovation Inc
+64629	GajShield Infotech India Private Limited
+64630	Xinnor
+64631	NDV
+64632	BankUnited
+64633	BVA
+64634	Fuzhou Gulou Yuqing Network Co., Ltd
+64635	Gemeinde Hude (Oldb)
+64636	AdvComm Inc
+64637	CCS-ENGRS
+64638	Peter Gallwas
+64639	Joshua Bollinger
+64640	Nodominium S.A.S. de C.V.
+64641	Soramitsu Khmer CO., LTD.
+64642	Tatweer Cyber Security
+64643	AGENCIA ESTATAL DE METEOROLOGIA (AEMET)
+64644	Kellola MetsÃ¤ Oy
+64645	LEMO Maschinenbau GmbH
+64646	Safescap
+64647	Radix Metasystems Inc.
+64648	Hadrian Automation
+64649	PowerSync Pty Ltd
+64650	LuxCarta Corp
+64651	CHAOS.CORP
+64652	Phaidra Inc
+64653	MultiService Aviation
 \.
