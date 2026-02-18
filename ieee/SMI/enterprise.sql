@@ -22284,7 +22284,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 22282	Qualys, Inc.
 22283	Gutemberg Medeiros Ltda
 22284	Dimensao Digital Desenvolvimento Ltd.
-22285	Teracue
+22285	GSS Smart Solutions GmbH
 22286	SYSTEMA
 22287	TRS SpA
 22288	EXTIS GmbH
@@ -34090,7 +34090,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 34088	Visioneer Inc
 34089	Newport Electronics, Inc.
 34090	TFB Technology Ltd.
-34091	Benchlabs Limited
+34091	CW Business Group Limited
 34092	MyMail PLC
 34093	UAB Profimus
 34094	Fanamoj (JSC)
@@ -38098,7 +38098,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 38096	CyclopusCAD s.r.l.
 38097	Universidade Estadual de GoiÃ¡s
 38098	Rostov region office of Federal service of state registration cadaster and cartography
-38099	Transglobal Secure Collaboration Participation Inc. (TSCP)
+38099	TSCP LLC
 38100	CAMI Research Inc.
 38101	Roalter International
 38102	Szechenyi Istvan University
@@ -61145,7 +61145,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 61143	STN BANK
 61144	Shenzhen Xijia Medical Technology Co., Ltd.
 61145	Steadfast Financial LP
-61146	Puzzle ITC GmbH
+61146	Puzzle ITC
 61147	TelefÃ³nica IoT & Big Data Tech, S.A.U.
 61148	Indorama Ventures Mobility Obernburg GmbH
 61149	SevenTrust Zrt.
@@ -65101,4 +65101,53 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65099	Brown Rook
 65100	Aumayr GmbH
 65101	Stefeli OÃ
+65102	Derek Bond
+65103	PCI Private Limited
+65104	Ooredoo Tunisie
+65105	Neniel
+65106	Bolsa de Valores Nacional, S.A.
+65107	Sintegradas, S.A.
+65108	Open Industry 4.0 Alliance Implementation GmbH
+65109	Teamly Digital
+65110	Stellar Science Ltd Co
+65111	Alfred Weirich
+65112	Tobias Boge
+65113	Astronomer, inc.
+65114	HAND - The Universal Talent Identifier, Inc.
+65115	QBit Labs Private Limited
+65116	ARBOE
+65117	DEEPNOID Inc.
+65118	Tyson Grangers
+65119	Dark Grant
+65120	Healthcode LTD
+65121	Nils Neurath
+65122	Jason Shiflet
+65123	BrainQuant Ltd
+65124	Silicon Valley Power
+65125	Mindskill Software AB
+65126	Causality Check AB
+65127	C. Rudolf Salfer GmbH
+65128	WISITH TUN-YHONG
+65129	Falcon Watch Group
+65130	Huawei FANO group
+65131	Huawei FANO group
+65132	ProvenRun
+65133	FITFAK
+65134	TechRunes
+65135	Sygnature Discovery Canada
+65136	TECHSQUARE SOFTWARE SPÃÅKA Z OGRANICZONÄ ODPOWIEDZIALNOÅCIÄ
+65137	Entertainment Identifier Registry (EIDR)
+65138	Ruvion Robotics
+65139	Wolters Kluwer Tax & Accounting Deutschland GmbH
+65140	intive GmbH
+65141	Admiral Packaging In.
+65142	Bertie County Schools
+65143	SMART
+65144	LTD Technology Solutions, Inc
+65145	Dark Bio AG
+65146	IOWIS GmbH
+65147	SolÃ¶r Bioenergi Pellets AB
+65148	BILGE TOPLULUK YAZILIM BILISIM TELEKOMUNIKASYON SANAYI TICARET LIMITED SIRKETI
+65149	Champaign-Urbana Mass Transit District (MTD)
+65150	Monitoreal Ltd
 \.
