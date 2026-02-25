@@ -38059,7 +38059,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 38057	D&B Germany GmbH
 38058	Cyanide Studio
 38059	Banking production center
-38060	Sempla Srl
+38060	Unassigned
 38061	Edistar Srl
 38062	Marathon Oil Corporation
 38063	Suomen Asiakastieto Oy
@@ -40485,7 +40485,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 40483	Volta electronics srl
 40484	Auroville Foundation
 40485	Online.net
-40486	State of Nevada Dept of Employment Training and Rehabilitation
+40486	State of Nevada, Dept of Employment Training and Rehabilitation
 40487	Timesafer Inc.
 40488	Staiger, Schwald & Partner AG
 40489	Mintlab B.V.
@@ -48065,7 +48065,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 48063	Anna Jaques Cancer Center
 48064	Grupo MSA S.A.
 48065	Talentnet Corporation
-48066	Linkforce Engineering
+48066	Linkforce
 48067	UnifyID, Inc.
 48068	CSE Transtel
 48069	Demmich IT Service
@@ -57269,7 +57269,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 57267	Bravas Sistemas Ltda
 57268	Unitac Technology Ltd.
 57269	Energy Queensland
-57270	JRC Mobility, Inc.
+57270	Unassigned
 57271	Open SDN & NFV Lab (OSNL)
 57272	highstreet technologies USA Corp.
 57273	highstreet technologies GmbH
@@ -65150,4 +65150,62 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65148	BILGE TOPLULUK YAZILIM BILISIM TELEKOMUNIKASYON SANAYI TICARET LIMITED SIRKETI
 65149	Champaign-Urbana Mass Transit District (MTD)
 65150	Monitoreal Ltd
+65151	STC PIK, Ltd
+65152	Advanced Drone Technology
+65153	Dennis Graiani
+65154	EnVayo Systems LTD
+65155	ZS1-Wankowicz-Blonie
+65156	NovaVanguard (Tianjin) Technology Co., Ltd.
+65157	ä¸æµ·éå®åç¨ç§ææéå¬å¸ (Shanghai Ju'an Xiecheng Technology Co., Ltd.)
+65158	UCS IT Solutions AB
+65159	Roland Kistler
+65160	Aretiico, Inc.
+65161	Aveira Security Research
+65162	Povodi Moravy, statni podnik (Morava river basin, state enterprise)
+65163	ToolsOnAir Broadcast Engineering GmbH
+65164	Sorbus ursina
+65165	Family Farm and Home, Inc.
+65166	Secure Tech Cards (Pvt) Ltd
+65167	The Durable Slate Co.
+65168	Vaughan Williams
+65169	Holy Spirit Roman Catholic School Division
+65170	CONISKING SA
+65171	Shielded Site
+65172	Ufone
+65173	HaPy Schul-IT
+65174	Latvaenergia Oy
+65175	Scrive AB
+65176	DokiSpace
+65177	Secure Element Solutions, LLC
+65178	TruPoint Technology Services Ltd.
+65179	Juan Ros Florenza
+65180	ÐÑÐ¿ÑÐ¸ÑÑÐ¸Ð½ ÐÐ¸ÑÐ°Ð¸Ð» ÐÐ½Ð´ÑÐµÐµÐ²Ð¸Ñ (Kupriyashin Mikhail Andreevich)
+65181	Kimble
+65182	Nectek
+65183	PRIVATECH Inc.
+65184	Full Doors
+65185	Vibeish Analytics
+65186	Nissay Information Technology Cybersecurity Central Project
+65187	HARBOR HUMANITY TRUST
+65188	MAUSS BAU GmbH & Co. KG
+65189	Avenkor
+65190	MiWire Group ApS
+65191	Vakka-Suomen Puhelin Oy
+65192	Fredrik Wahlgren
+65193	ÐÑÐ¿ÑÐ¸ÑÑÐ¸Ð½ ÐÐ¸ÑÐ°Ð¸Ð» ÐÐ½Ð´ÑÐµÐµÐ²Ð¸Ñ (Kupriyashin Mikhail Andreevich)
+65194	Nexphoton
+65195	IT:U interdisciplinary transformation university austria
+65196	Sage Networks
+65197	Simsalasim Germany GmbH
+65198	VADES, LLC
+65199	HanÃ¥sa SÃ¥gverk Aktiebolag
+65200	coresdev, LLC
+65201	LMI Technologies
+65202	Dane
+65203	æ¥ æ³°ç§æï¼æ·±å³ï¼æéå¬å¸ (Nantech Technology (Shenzhen) Co., Ltd.)
+65204	JoLo Software
+65205	Telepeer AB
+65206	SkifteCentralen ApS
+65207	Seralto Bilgi Teknolojileri ve Guvenligi Ltd.
+65208	Privatbrauerei Zwettl
 \.
