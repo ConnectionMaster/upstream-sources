@@ -41295,7 +41295,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 41293	Taylor Innovations, LLC
 41294	Datafrog
 41295	Andalusia Group
-41296	E-Gate Communications Inc.
+41296	EGATE Networks Inc.
 41297	Nextech Co.,Ltd
 41298	BRGFrauengasse
 41299	Infodom d.o.o.
@@ -50032,7 +50032,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 50030	BENTELER Business Services GmbH
 50031	Ring Central, Inc
 50032	City of Edmond
-50033	IT-Solutions Nuernberg
+50033	AKITN Consulting
 50034	AR24 SAS
 50035	Identinetics IT-Services GmbH
 50036	Cancer South Institute
@@ -63168,7 +63168,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63166	Scanvaegt Systems AB
 63167	FUNDACIÃN CIVITANA
 63168	UnipartRail
-63169	TEXAS DEPARTMENT OF DEVELOPMENT
+63169	Dev Recon Inc
 63170	XYC INDUSTRY CO.,LIMITED
 63171	C4 Energi AB
 63172	Brueterei Weser-Ems GmbH & Co. KG
@@ -65347,4 +65347,46 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65345	Communications Regulatory Authority of Namibia
 65346	Yaskawa America Inc.
 65347	Beijing Unihannto Technology Co., Ltd.
+65348	Florian Sluiter
+65349	Microgrid Energy Pty Ltd
+65350	Ruchi Telecom Private Limited
+65351	Sigalion
+65352	Space-Tech LLC
+65353	CEDIA
+65354	TRAC Intermodal
+65355	Apache Corporation
+65356	Julian Pawlowski
+65357	JosÃ© EliÃ©cer Loaiza Duque
+65358	Mark Nolan
+65359	Rainer W. Gerling
+65360	Point And Click Solutions, Inc
+65361	xSyLent
+65362	Liujiacheng
+65363	MerkleCerts
+65364	Verific Design Automation, Inc.
+65365	SOI Asia
+65366	Fast Module
+65367	Numeracle, Inc.
+65368	Jacobs.Tech
+65369	Affinda Group
+65370	Nexiom
+65371	VietCA Technology JSC
+65372	Electron do Brasil Tecnologia Digital Ltda
+65373	BK Tech Group AB
+65374	Ampaura Australia
+65375	PRZEDSIEBIORSTWO WIELOBRANZOWE CASTON SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA (Caston Multi-Branch Enterprise Limited Liability Company)
+65376	Famoco
+65377	Compass Group North America
+65378	è¯æç§ææéå¬å¸ Xinsheng Technology Co., Ltd
+65379	LLC "PF STIS"
+65380	Mark Mackenzie
+65381	Michael Kirkpatrick
+65382	Water & Wastewater Technic WWT GmbH
+65383	Endritâs Digital Solutions e.K.
+65384	Association of Azerbaijani British Professionals
+65385	FORITECH
+65386	DAPsystems
+65387	BEQ Manufacturier
+65388	Viridi Parente, Inc.
+65389	Romagnole Produtos ElÃ©tricos SA (Filial Juiz de Fora)
 \.
