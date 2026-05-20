@@ -65836,4 +65836,11 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65834	Lukasz Rzepecki
 65835	Information Processing Society of Japan
 65836	F.R.S.-FNRS
+65837	Shenzhen smarten electric Co.,Ltd
+65838	China Unicom Global Ltd
+65839	DotNet Internals AS
+65840	AUTO BECORO SRL
+65841	EQ2
+65842	SoftMate GmbH Intelligent Software Solutions
+65843	ALTES Informatique
 \.
