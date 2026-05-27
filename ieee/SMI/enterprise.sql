@@ -22541,7 +22541,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 22539	Champion Computer Technologies
 22540	Oulun Lyseon lukio
 22541	Open Acuity LLC
-22542	Lex Persona
+22542	Goodflag
 22543	GOUNOT
 22544	Host Collective Inc.
 22545	Daudt Consulting
@@ -64874,7 +64874,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 64872	Elemenik
 64873	Kendal College
 64874	Shanghai Hema Optical Co., Ltd.
-64875	BJL13 Enterprise Solutions, LLC d/b/a BES
+64875	BJL13 Enterprise Solutions, LLC d/b/a CivicBrands
 64876	Nestor cv
 64877	Beacon Link Inc.
 64878	Prima Vista Solusi
@@ -65843,4 +65843,42 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65841	EQ2
 65842	SoftMate GmbH Intelligent Software Solutions
 65843	ALTES Informatique
+65844	University of Nevada, Reno
+65845	Medivis
+65846	ReadyStackGo
+65847	Actalis S.p.A.
+65848	Stadler Signalling Deutschland GmbH - MOFIS
+65849	LLC âInSoftâ
+65850	SCOPI
+65851	PT Indonesia Digital Security
+65852	ã¹ã¿ã¼ã·ã¼ãºãã¸ã¿ã«æ ªå¼ä¼ç¤¾ (Star Seeds Digital Co., Ltd.)
+65853	Maxiglobal
+65854	UFO
+65855	TP-Link Systems Inc
+65856	Gemeinde Moehlin
+65857	HaveYa PTY LTD
+65858	PCS Software e ServiÃ§os Ltda
+65859	Blockbit
+65860	Hematology Oncology Associates of the Treasure Coast PA
+65861	Secast
+65862	COLEGIO DE ABOGADOS Y NOTARIOS DE GUATEMALA
+65863	delphi.dev
+65864	Alex Simon
+65865	Solo.io
+65866	Provincial Electricity Authority
+65867	REDNET
+65868	Unitek A/S
+65869	Jorge Alegre Vilches
+65870	Cubitel
+65871	Bunge Canada Inc.
+65872	Universal Strategy Group, Inc
+65873	N NEAT SOLUTION
+65874	QuickSolutions Media pty ltd
+65875	Elevenware Limited
+65876	Green Recursive Utility Service LLC
+65877	Pixel AI SARLU
+65878	HonorÃ© DEMBÃLÃ (BAZURU)
+65879	Shenzhen ENERGY CONTROL CLOUD Technology Co., Ltd.
+65880	Digital Matter
+65881	HofstÃ¤dtler I. E. GmbH
 \.
