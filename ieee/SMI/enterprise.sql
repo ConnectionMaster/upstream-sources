@@ -6188,7 +6188,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 6186	Space CyberLink Inc.
 6187	Dartmouth-Hitchcock Medical Center
 6188	University of Massachusetts Lowell
-6189	Eviden Germany GmbH - Trustcenter
+6189	Atos Secure Digital GmbH - Trustcenter
 6190	Network365 Ltd
 6191	Plasmon, Inc.
 6192	Environmental Monitoring Solutions
@@ -14250,7 +14250,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 14248	Gemini Security Solutions, Inc.
 14249	Centre Hospitalier Henri Laborit
 14250	Conseil General de la Vienne
-14251	Stellar Craft Inc.
+14251	Stellar Craft, Inc.
 14252	Prime Solutions Ltd.
 14253	GridXpert
 14254	enhansiv
@@ -19134,7 +19134,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 19132	The Cheshire Web Mill
 19133	Baycom Opoto-Electronics Technology Co., Ltd.
 19134	Texocom Inc
-19135	Darkerhosting.net
+19135	spike.cx
 19136	Trichord, Inc.
 19137	Sebastian Staiger Computer  Services
 19138	Bright Prospects LLC
@@ -39964,7 +39964,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 39962	Kern Scientific Co.
 39963	AGCO Corporation
 39964	EIDEN Co,Ltd
-39965	Trans Sped
+39965	Trans Sped SA
 39966	Luminoso, LLC
 39967	Ethersex Project
 39968	Toya Technologies Inc.
@@ -43441,7 +43441,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 43439	J.J. Downs Industrial Plastics Inc.
 43440	royal holloway, university of london
 43441	royal holloway, university of london
-43442	Niles Radio Communications
+43442	BanditForge, LLC
 43443	Transacciones y Servicios Mobile
 43444	Inspire Living, Inc.
 43445	4th Layer Integrated Solutions S.r.l.
@@ -52141,7 +52141,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 52139	Old Republic Title
 52140	CardPlus Sverige AB
 52141	CardPlus Oy
-52142	TRANS SPED LTD
+52142	Unassigned
 52143	RCCA MD LLC - Center for Cancer & Blood Disorders
 52144	Applied Video Solutions
 52145	CRSG Deutschland GmbH
@@ -63746,7 +63746,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 63744	Moya
 63745	Vyskumny ustav vodneho hospodarstva
 63746	Noshaq
-63747	EAJ Global
+63747	EAJ Group
 63748	HEQA Security
 63749	MATTERS (Winb Estrategia)
 63750	Vincent Nic
@@ -65836,7 +65836,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65834	Lukasz Rzepecki
 65835	Information Processing Society of Japan
 65836	F.R.S.-FNRS
-65837	Shenzhen smarten electric Co.,Ltd
+65837	Shenzhen widenedge electric co.,ltd
 65838	China Unicom Global Ltd
 65839	DotNet Internals AS
 65840	AUTO BECORO SRL
@@ -65881,4 +65881,74 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 65879	Shenzhen ENERGY CONTROL CLOUD Technology Co., Ltd.
 65880	Digital Matter
 65881	HofstÃ¤dtler I. E. GmbH
+65882	Justin Michael Harris
+65883	iPotisEdge Co., Ltd.
+65884	Directhealth Tecnologias em Sistemas e ServiÃ§os do Brasil
+65885	Beijing Yiyuan Information Technology Co., Ltd.
+65886	MARSTEK
+65887	3ForceIT
+65888	Innlights GmbH
+65889	Trinidad Area Health Association
+65890	OptraSCAN INC
+65891	SMARTMON
+65892	Trebide (IKUSI S.L)
+65893	Fabory Netherlands
+65894	Henan Junyu Technologies co., Ltd.
+65895	Tilman S.A.
+65896	Xinjiang Ying Sheng Information Technology Co., Ltd.
+65897	TERRA-0
+65898	TRAVAILLEUR-0
+65899	MangoBoost, Inc.
+65900	Elevate
+65901	openwisp
+65902	Universidad Pedagogica Veracruzana
+65903	Grupo Portfolio
+65904	OOO 'NPO Dvina'
+65905	å¹¿å·ç³æ§ä¸çºªè½¯ä»¶æéå¬å¸ (Guangzhou zaxsoft Century Software Co., Ltd.)
+65906	PhysioLogic Softworks Corp.
+65907	OTOKO GmbH
+65908	Yumankind OÃ
+65909	Plexus Parc, LLC
+65910	ONDO
+65911	Max Weishaupt SE
+65912	Shenzhen ConceMed Medical Technology Co., Ltd.
+65913	IPD Group LLC
+65914	VtSoftware
+65915	medsky
+65916	NCSE NETWORK LTD
+65917	Taiwan Digital Streaming Co.
+65918	Dolphitech AS
+65919	Independence Bank
+65920	Mid-Continent Public Library
+65921	X Management Pro
+65922	Selector Software, Inc.
+65923	Prh-tech
+65924	SEATBELT CONSULTING S.R.L.
+65925	Multicase Norge AS
+65926	East of England Coop
+65927	Stadt Kaufbeuren
+65928	Vallions Tecnologia
+65929	SITS Group AG
+65930	Jason Revello
+65931	Junto Identity
+65932	VERIFYTECH INC
+65933	Dollar Tree
+65934	BYOND Technologies Inc
+65935	Tranter Engineering
+65936	Joshua Winter
+65937	GoverByte
+65938	Scalair
+65939	Oxydian
+65940	Telecom Egypt
+65941	Maytana, Inc dba Formal
+65942	Marvaus Technologies Private Limited
+65943	Raspberrypi Sht31d Snmp
+65944	Gregory Hildstrom
+65945	Desktop Alert Inc
+65946	Atheer Connectivity
+65947	Telekomunikacije Republike Srpske a.d. Banja Luka
+65948	Weave Grid, Inc.
+65949	Nikita Ledenev
+65950	Afore New Energy Technology (Shanghai) Co., Ltd.
+65951	Airly sp. z o.o.
 \.
