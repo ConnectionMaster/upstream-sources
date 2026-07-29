@@ -66344,4 +66344,33 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 66342	UseKrypt
 66343	Control Applications ltd.
 66344	Innovasis Enerji Elektronik San. ve Tic. Ltd. Sti.
+66345	Signivault
+66346	Amit Kumar
+66347	Sharx Datacenter LLC
+66348	Gemik Software GmbH
+66349	Marintel LLC
+66350	Williams & Fudge, Inc.
+66351	Maxcom Corporation
+66352	Glenwood, Inc.
+66353	Wiegand-Glas
+66354	Cocoa
+66355	NorcalBarnstormers LLC
+66356	Nanaboshi Electric Mfg. Co., Ltd.
+66357	DC ASIA Ltd.
+66358	Privoro
+66359	Altas Express LLC
+66360	IaSoC
+66361	AutographOS Corp
+66362	Enchorium
+66363	Sec s.r.o
+66364	ABLATIVE PTY LTD
+66365	Zhang He
+66366	Ridgeway Telecommunications LLC
+66367	eGloo Incorporated
+66368	SETIC-FP/MINFIN Angola
+66369	LXNDigital
+66370	StampCode
+66371	Logiqum Kft.
+66372	Vexola GmbH
+66373	Algonomia
 \.
