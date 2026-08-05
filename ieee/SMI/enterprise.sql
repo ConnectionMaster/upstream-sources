@@ -34584,7 +34584,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 34582	Tuenti Technologies
 34583	V-Private AG
 34584	unterberg-electronic Gmbh
-34585	REWE-Informations-Systeme GmbH
+34585	REWE digital GmbH
 34586	Ontario Teachers Pension Plan Board
 34587	Hiive Systems
 34588	Beijing office of International Air Transport Association
@@ -43058,7 +43058,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 43056	ENVISTACOM
 43057	PrAT CENTRAVIS PRODUCTION UKRAINE
 43058	Synergy Sky AS
-43059	iteracon GmbH
+43059	RADIUZE GmbH
 43060	Leepfrog Technologies, Inc.
 43061	Global System & Network Services BVBA
 43062	Ingenieure ohne Grenzen e.V.
@@ -66373,4 +66373,60 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 66371	Logiqum Kft.
 66372	Vexola GmbH
 66373	Algonomia
+66374	National Energy PKI Limited
+66375	Hyundai Motor Company
+66376	Xiamen Bitswaving Technology Co., Ltd.
+66377	N.V. Nederlandse Spoorwegen
+66378	Inexorable, Inc.
+66379	Midwest Orthopaedic Center
+66380	Chessmate Limited
+66381	T.E.L.L. Software HungÃ¡ria Kft.
+66382	Coppin State University Community Health Center
+66383	4future.digital
+66384	Unifiber SA
+66385	Sunjata Conseil
+66386	Reed-Soft Bt.
+66387	SOBE SOFTWARE, Inc.
+66388	Spartified
+66389	Verge Inc.
+66390	Engel & VÃ¶lkers Gewerbe Berlin GmbH & Co KG
+66391	BLAISSED S.R.L.
+66392	Mariusz ZieliÅski
+66393	Dan Cross
+66394	Indosat Ooredoo Hutchison (IM3)
+66395	Indosat Ooredoo Hutchison (3ID)
+66396	Le Vi Qui
+66397	Banco Guayaquil S.A.
+66398	Mobile-ID Technologies And Services Joint Stock Company
+66399	Fairland iGarden Co.,Ltd.
+66400	knoell Germany GmbH
+66401	zdrei.com GmbH
+66402	Aqua Vita International S. A.
+66403	Metropolitni univerzita Praha, o.p.s.
+66404	Common Codes GmbH
+66405	Ambermind
+66406	Usepov Oleg Surenovich
+66407	Silver Cross Hospital and Medical Centers
+66408	Johnson Controls
+66409	PT NUSAGLOBAL KARYA TEKNO
+66410	Aristotelian Network Solutions, INC.
+66411	Resnics Technology (Shanghai), Inc.
+66412	Deutsche Apotheker- und Ãrztebank eG
+66413	VERTICAL TECNOLOGIA INTERNET SERVICOS PAGAMENTOS E INTERMEDIACOES LTDA
+66414	Delaval International AB
+66415	Kiran Vaidya
+66416	Guggenheim Securities, LLC
+66417	ARIS
+66418	Netavo Global Data Services Ltd
+66419	ROTE Solutions
+66420	NOENEX TECNOLOGIA ELETRONICA LTDA
+66421	Necessary Innovations AB
+66422	DistroGlobe Solutions Private Limited
+66423	Betreiberverein ZAM e.V.
+66424	Rostro Foundation
+66425	PLT networks GmbH
+66426	IC Solutions sp. z o. o.
+66427	DreamCoder
+66428	Verity AI Technologies, Inc.
+66429	Isla Cloud Solutions, S.L.
 \.
