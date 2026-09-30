@@ -562,7 +562,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 560	Paul Freeman Associates, Inc.
 561	John S. Barnes, Corp.
 562	Northern Telecom, Ltd.
-563	CAP Debris
+563	CAP DEBRIS
 564	Telco Systems NAC
 565	Tosco Refining Co
 566	Russell Info Sys
@@ -35570,7 +35570,7 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 35568	Beth Israel Deaconess Medical Center
 35569	A-dec Inc.
 35570	Travel Tripper LLC
-35571	LU-Hosting
+35571	Unassigned
 35572	Arends IT+TK
 35573	sitel
 35574	Dambach-Werke GmbH
@@ -66918,4 +66918,70 @@ COPY "enterprise" ("enterprise_number", "organization") FROM STDIN;
 66916	Rougsoe Systems ApS
 66917	Mindlapse
 66918	ARCR TECHNOLOGIES PRIVATE LIMITED
+66919	Tansenn Blackwell
+66920	TSUMUGI Labo.
+66921	Tingyang Chang
+66922	Klein & Bilke-Klein GbR
+66923	Shanghai Yidingqian Technology Co., Ltd.
+66924	Kazmierczak
+66925	openfabric
+66926	Hams.com
+66927	Jonathan Schleifer
+66928	SNR33 B.V.
+66929	Groupe Synapse
+66930	State Grid Information & Communication Yili Technology Co., Ltd.
+66931	VILION (SHENZHEN) NEW ENERGY TECHNOLOGY CO.,LTD
+66932	Vaaran MetsÃ¤ Oy
+66933	Ministerium des Innern des Landes Nordrhein-Westfalen
+66934	3SSISTEMI srl
+66935	Sewan
+66936	Capri Communities
+66937	Farkas Sicherheitstechnik GmbH
+66938	Guangdong Yada Electronics Co., Ltd.
+66939	Julian Klissenbauer-MathÃ¤
+66940	VoiceIt Technologies, Inc. d/b/a EnQuanta
+66941	Crystal Waters Fibre
+66942	La ProvenÃ§ale SARL
+66943	MINASOFT SAÄLIK YAZILIM TEKNOLOJÄ° SANAYÄ° VE TÄ°CARET LÄ°MÄ°TED ÅÄ°RKETÄ°
+66944	SPiNE GmbH
+66945	Suzhou RCT Power Energy Technology Co., Ltd.
+66946	Jiangsu RCT  Energy Technology Co., Ltd
+66947	Jiangsu RCT Power Energy Technology Co., Ltd
+66948	Ooredoo Kuwait
+66949	Comsol Networks
+66950	Open Answers Ltd
+66951	F.H.U. RALPH Sebastian Styrna
+66952	Aerix Limited
+66953	ConnectivityWise, LLC
+66954	Netgenius
+66955	Vox SoluÃ§Ãµes em TelecomunicaÃ§Ãµes e InformÃ¡tica
+66956	Shenzhen Star Turing Technology Co., Ltd
+66957	Westala
+66958	QSEC Global Co.,Ltd.
+66959	Cheetal Technology Pvt. Ltd.
+66960	Blockfinance AG
+66961	Leben im Alter â Boecker-Stiftung gGmbH
+66962	Danduola Team
+66963	Marc Schneider
+66964	NOVARA ADVANCED SYSTEMS
+66965	SealGrid.ai
+66966	Ethernetics NV
+66967	Pica8 Software Inc
+66968	Means+Measures LLC
+66969	Total Solution GmbH
+66970	HubertIndutries
+66971	Khalil Fregat
+66972	PB2M TECHNOLOGIES SL
+66973	O2 Czech Republic a.s.
+66974	Ripcurrent Technologies Inc.
+66975	Stealth Scale B.V.
+66976	Estrogen Corp.
+66977	pingiun solutions
+66978	trkulja.it
+66979	FKuR Kunststoff GmbH
+66980	DesignSigner, LLC
+66981	Beamlink
+66982	NIRVA SOFTWARE
+66983	CÃNG TY TNHH GIáº¢I PHÃP CÃNG NGHá» Y Táº¾ HVTT
+66984	Shree Home Foods LLP
 \.

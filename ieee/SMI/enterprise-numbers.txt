@@ -1,6 +1,6 @@
 PRIVATE ENTERPRISE NUMBERS
 
-(last updated 2026-09-21)
+(last updated 2026-09-29)
 
 SMI Network Management Private Enterprise Codes:
 
@@ -2266,9 +2266,9 @@ Decimal
     Sharon Chisholm
       schishol&notelnetworks.com
 563
-  CAP Debris
-    Patrick Preuss
-      ppr&lfs.hamburg.cap-debris.de
+  CAP DEBRIS
+    Günther Griem
+      oid-admin&cap-debris.de
 564
   Telco Systems NAC
     Harry Hirani
@@ -99839,8 +99839,8 @@ Decimal
       shsu&synccast.com
 24956
   Innovative Electronic Designs, Inc.
-    Ken Tench
-      ktench&iedaudio.com
+    Tad Heckaman
+      tad.heckaman&atlasied.com
 24957
   Onoclea
     Pawel Sawicki
@@ -142298,9 +142298,9 @@ Decimal
     Michael V Spoonauer
       michael&traveltripper.com
 35571
-  LU-Hosting
-    Leo Unglaub
-      leo&leo-unglaub.net
+  Unassigned
+    Removed 2026-09-23
+      no-reply&iana.org
 35572
   Arends IT+TK
     Gerrit Arends
@@ -267689,6 +267689,270 @@ Decimal
   ARCR TECHNOLOGIES PRIVATE LIMITED
     Anand Reddy Yerravally
       admin&oneradius.com
+66919
+  Tansenn Blackwell
+    Tansenn Blackwell
+      website&tansennblackwell.com
+66920
+  TSUMUGI Labo.
+    Ken Shibutani
+      tsumugilabo202608&gmail.com
+66921
+  Tingyang Chang
+    Tingyang Chang
+      changtingyang183&protonmail.com
+66922
+  Klein & Bilke-Klein GbR
+    Thomas Klein
+      thomas.klein&skynetworks.de
+66923
+  Shanghai Yidingqian Technology Co., Ltd.
+    Benke Su
+      subenke&gmail.com
+66924
+  Kazmierczak
+    Lukasz Kazmierczak
+      lukasz&kazmierczak.cloud
+66925
+  openfabric
+    PKI Admin
+      pki-admin&openfabric.cloud
+66926
+  Hams.com
+    Bruce Perens
+      bruce&perens.com
+66927
+  Jonathan Schleifer
+    Jonathan Schleifer
+      js&nil.im
+66928
+  SNR33 B.V.
+    Mykola Stryebkov
+      m&snr33.eu
+66929
+  Groupe Synapse
+    Romain Mielcarek
+      romain.mielcarek&synapse-grid.com
+66930
+  State Grid Information & Communication Yili Technology Co., Ltd.
+    He Jilan
+      1846533501&qq.com
+66931
+  VILION (SHENZHEN) NEW ENERGY TECHNOLOGY CO.,LTD
+    haizhuo wang
+      wang.haizhuo&szweilan.com
+66932
+  Vaaran Metsä Oy
+    Teemu Viikinen
+      teemu.viikinen&vaara.fi
+66933
+  Ministerium des Innern des Landes Nordrhein-Westfalen
+    Thomas Ketelaar
+      thomas.ketelaar&im.nrw.de
+66934
+  3SSISTEMI srl
+    Luca Sgueglia
+      luca.sgueglia&3ssistemi.it
+66935
+  Sewan
+    Pierre HUBERT
+      pierre.hubert&sewan.fr
+66936
+  Capri Communities
+    Dan Schmidt
+      dschmidt&capricommunities.com
+66937
+  Farkas Sicherheitstechnik GmbH
+    Ferenc Farkas
+      technik&farkas-sicherheitstechnik.ch
+66938
+  Guangdong Yada Electronics Co., Ltd.
+    Zhang Zhenhuan
+      zzh&yada.com.cn
+66939
+  Julian Klissenbauer-Mathä
+    Julian Klissenbauer-Mathä
+      julian&klissenbauer.net
+66940
+  VoiceIt Technologies, Inc. d/b/a EnQuanta
+    Noel Grover
+      ngrover&enquanta.com
+66941
+  Crystal Waters Fibre
+    Manu Evans
+      manu&crystalwatersfibre.net.au
+66942
+  La Provençale SARL
+    Jerome Lienard
+      serv-info&provencale.lu
+66943
+  MINASOFT SAĞLIK YAZILIM TEKNOLOJİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ
+    Hasan Erken
+      hasan.erken&gmail.com
+66944
+  SPiNE GmbH
+    Thomas Müller
+      thomas&spine.energy
+66945
+  Suzhou RCT Power Energy Technology Co., Ltd.
+    Candice Xu
+      candice.xu&rct-power.com.cn
+66946
+  Jiangsu RCT  Energy Technology Co., Ltd
+    Candice Xu
+      candice.xu&rct-power.com.cn
+66947
+  Jiangsu RCT Power Energy Technology Co., Ltd
+    Candice Xu
+      candice.xu&rct-power.com.cn
+66948
+  Ooredoo Kuwait
+    Buthayna Al-Rushoud
+      coreplanning&ooredoo.com.kw
+66949
+  Comsol Networks
+    Mauritz Lewies
+      m&comsol.co.za
+66950
+  Open Answers Ltd
+    Jeremy Peet
+      jeremy&openanswers.co.uk
+66951
+  F.H.U. RALPH Sebastian Styrna
+    Mariusz Maludy
+      biuro&ralph.pl
+66952
+  Aerix Limited
+    Peter Gradwell
+      peter.gradwell&aerix.uk
+66953
+  ConnectivityWise, LLC
+    Sean Rowe
+      sean&connectivitywise.com
+66954
+  Netgenius
+    Daniel Ruiz Chavarria
+      Daniel.Ruiz&Millicom.com
+66955
+  Vox Soluções em Telecomunicações e Informática
+    Wagner Araujo
+      wagner&voxsolucoes.com.br
+66956
+  Shenzhen Star Turing Technology Co., Ltd
+    Wei Zhang
+      cloud&ess-link.com
+66957
+  Westala
+    Robert Han
+      support&westalatech.com
+66958
+  QSEC Global Co.,Ltd.
+    王調榮 (Wang Tiao Jung)
+      Service&qsec.global
+66959
+  Cheetal Technology Pvt. Ltd.
+    Adeel Ahmed
+      adeel&cheetaltech.com
+66960
+  Blockfinance AG
+    Michael Mauer
+      pki&blockfinance.li
+66961
+  Leben im Alter – Boecker-Stiftung gGmbH
+    Verwaltungsleitung
+      verwaltungsleitung&boecker-stiftung.de
+66962
+  Danduola Team
+    Colin Shawn
+      colin.shawn&danduola.com
+66963
+  Marc Schneider
+    Marc Schneider
+      contact&m-schneider.cc
+66964
+  NOVARA ADVANCED SYSTEMS
+    AHMED AMER
+      info&NOVARASYS.COM
+66965
+  SealGrid.ai
+    Itamar Tziger
+      support&sealgrid.ai
+66966
+  Ethernetics NV
+    Robert Leune
+      support&ethernetics.tech
+66967
+  Pica8 Software Inc
+    Yafei Li
+      RD&pica8.com
+66968
+  Means+Measures LLC
+    Brian London
+      brian&secure.civicbrands.org
+66969
+  Total Solution GmbH
+    Ayman Babelly
+      a.babelly&totalsolution.com
+66970
+  HubertIndutries
+    Pierre HUBERT
+      contact&hubertindustries.fr
+66971
+  Khalil Fregat
+    Khalil Fregat
+      khalil.fregat&icloud.com
+66972
+  PB2M TECHNOLOGIES SL
+    Rafael Perez Belizon
+      rafael.perez-belizon&pb2mtech.com
+66973
+  O2 Czech Republic a.s.
+    Jan Hrdonka
+      jan.hrdonka&o2.cz
+66974
+  Ripcurrent Technologies Inc.
+    Jorge Power
+      jpower&ripcurrenttech.com
+66975
+  Stealth Scale B.V.
+    Roy Klopper
+      roy.klopper&stealthscale.io
+66976
+  Estrogen Corp.
+    Tiago Zip
+      hi&tiago.zip
+66977
+  pingiun solutions
+    Jelle Besseling
+      jelle&pingiun.com
+66978
+  trkulja.it
+    Aleksandar Trkulja
+      aleks&trkulja.it
+66979
+  FKuR Kunststoff GmbH
+    Daniel Peltzer
+      daniel.peltzer&fkur.com
+66980
+  DesignSigner, LLC
+    Michael Bush
+      mike&designsigner.com
+66981
+  Beamlink
+    Arpad Kovesdy
+      arpad&beamlink.io
+66982
+  NIRVA SOFTWARE
+    Maxime Merle
+      maxime.merle&nirva-software.com
+66983
+  CÔNG TY TNHH GIẢI PHÁP CÔNG NGHỆ Y TẾ HVTT
+    Nguyễn Hoàng Thành
+      info&hvttgroup.com
+66984
+  Shree Home Foods LLP
+    Purushotham Chintireddy
+      shreehomefood.hyd&gmail.com
 
 
 End of Document
